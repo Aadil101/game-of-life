@@ -1,3 +1,7 @@
+# cs1lib graphics module
+# Dartmouth College Computer Science Department
+# COSC 1 course taken during Spring 2018 by Aadil Islam 
+
 from math import pi
 import sys, os.path
 from PyQt5.QtCore import *
